@@ -1,0 +1,15 @@
+body{
+    background-color: #00c4ff;
+    background-image: url("gradibird_bg.png");
+    background-size:100%;
+    background-repeat: no-repeat;
+}
+
+iframe{
+    display:block;
+    margin:auto;
+    margin-top:20vh;
+    border-style:solid;
+    border-color:black;
+    border-width:8px;
+}
